@@ -1,5 +1,5 @@
 # Game script
 
 ## character:
-              ### Player 1
-              ### plater 2
+  ###   Player-1
+  ###   plater 2
