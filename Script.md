@@ -2,4 +2,4 @@
 
 ## character:
   ###   Player-1
-  ###   plater 2
+  ###   player 2
