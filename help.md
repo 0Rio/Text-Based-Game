@@ -6,10 +6,46 @@ syntax:
      
     printf("anything which you wanna print");
     
- for examples
+ example:
   
     printf("hello world");
+output:
+     
+     hello world
+
+use \n to go to a line 
+
+example:
+       
+     printf("hello world\n hi there\n");
+     printf("hi there?\n");
+     printf("who are you");
+output:
+     
+     hello world
+     hi there
+     hi there?
+     who are you
+
+there are some characters which cannot be printed directly and to print those characters we use an escape sequence '\' followed by that character
  
+ for example
+   
+     printf("he said, \" hi there? \". ");
+output
+    
+    he said, "hi there?".
+
+characters which cannot be printed directly 
+
+\\ = \\\
+ 
+ " = \\"
+ 
+ % = \\%
+    
+\
+.
 ## data types
  data types is a specification of the data which you wanna store. for example: a number,a character,a decmimal number or  a sentence
 
