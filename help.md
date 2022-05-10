@@ -13,8 +13,13 @@ output:
      
      hello world
 
+\
+\
+\
 use \n to go to a line 
 
+
+\
 example:
        
      printf("hello world\n hi there\n");
@@ -27,9 +32,12 @@ output:
      hi there?
      who are you
 
+\
+\
 there are some characters which cannot be printed directly and to print those characters we use an escape sequence '\' followed by that character
- 
- for example
+
+\
+for example
    
      printf("he said, \" hi there? \". ");
 output
