@@ -34,7 +34,7 @@ output:
 
 \
 \
-there are some characters which cannot be printed directly and to print those characters we use an escape sequence '\' followed by that character
+there are some characters which cannot be printed directly and to print those characters we use an escape sequence '\\' followed by that character
 
 \
 for example
